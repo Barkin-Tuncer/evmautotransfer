@@ -14,6 +14,13 @@
     "explorer": "https://explorer.devnet.imola.movementlabs.xyz"
   },
   {
+    "name": "Citrea Testnet",
+    "rpcUrl": "https://rpc.testnet.citrea.xyz",
+    "chainId": "5115",
+    "symbol": "cBTC",
+    "explorer": "https://explorer.testnet.citrea.xyz"
+  },
+  {
     "name": "Berachain bArtio",
     "rpcUrl": "https://bartio.rpc.berachain.com",
     "chainId": "80084",
