@@ -28,6 +28,13 @@
     "explorer": "https://explorer.stratovm.io"
   },
   {
+    "name": "Minato",
+    "rpcUrl": "https://rpc.minato.soneium.org",
+    "chainId": "1946",
+    "symbol": "ETH",
+    "explorer": "https://explorer-testnet.soneium.org"
+  },
+  {
     "name": "Story Testnet",
     "rpcUrl": "https://testnet.storyrpc.io",
     "chainId": "1513",
