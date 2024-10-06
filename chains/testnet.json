@@ -6,6 +6,13 @@
     "symbol": "EDU",
     "explorer": "https://opencampus-codex.blockscout.com"
   },
+  {
+    "name": "PROM Testnet",
+    "rpcUrl": "https://testnet-rpc.prom.io",
+    "chainId": "584548796",
+    "symbol": "T-PROM",
+    "explorer": "https://testnet.promscan.io"
+  },
  {
     "name": "Movement MEVM",
     "rpcUrl": "https://mevm.devnet.imola.movementlabs.xyz",
