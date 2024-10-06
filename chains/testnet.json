@@ -28,6 +28,13 @@
     "explorer": "https://bartio.beratrail.io"
   },
   {
+    "name": "Tabi Testnetv2",
+    "rpcUrl": "https://rpc.testnetv2.tabichain.com",
+    "chainId": "9788",
+    "symbol": "TABI",
+    "explorer": "https://testnetv2.tabiscan.com"
+  },
+  {
     "name": "Plume Testnet",
     "rpcUrl": "https://testnet-rpc.plumenetwork.xyz/http",
     "chainId": "161221135",
